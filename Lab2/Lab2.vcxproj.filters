@@ -21,6 +21,9 @@
     <ClCompile Include="P5dot10.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="P6dot6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="P5dot10.h">
