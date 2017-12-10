@@ -5,10 +5,10 @@
 
 int main() {
 
-	//std::cout << "P5.10: " << std::endl;
-	//P5dot10::run();
+	std::cout << "P5.10: " << std::endl;
+	P5dot10::run();
 
-	//std::cout << std::endl << std::endl;
+	std::cout << std::endl << std::endl;
 
 	std::cout << "P6.6: " << std::endl;
 	P6dot6::run();

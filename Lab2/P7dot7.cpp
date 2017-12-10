@@ -140,25 +140,15 @@ namespace P7dot7 {
 
 		// Create a bunch of my family members
 		FamilyMember me = FamilyMember("Jamie");
-
 		FamilyMember wife = FamilyMember("Judy");
-
 		FamilyMember mother = FamilyMember("Robin");
-
 		FamilyMember father = FamilyMember("Terry");
-
 		FamilyMember sister = FamilyMember("Brittany");
-
 		FamilyMember brother = FamilyMember("Nicholas");
-
 		FamilyMember halfBrother = FamilyMember("Michael");
-
 		FamilyMember brotherInLaw = FamilyMember("Peter");
-
 		FamilyMember niece = FamilyMember("Sydney");
-
 		FamilyMember child1 = FamilyMember("Imaginary Child 1");
-
 		FamilyMember child2 = FamilyMember("Imaginary Child 2");
 
 		// Add the children to each of the family members
